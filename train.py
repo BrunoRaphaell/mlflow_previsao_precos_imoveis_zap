@@ -16,7 +16,7 @@ from yellowbrick.regressor import ResidualsPlot, PredictionError
 
 
 np.random.seed(42)
-mlflow.set_experiment(experiment_name='mlflow_previsao_precos_imoveis_zap')
+# mlflow.set_experiment(experiment_name='mlflow_previsao_precos_imoveis_zap')
 
 tags_initial = {
     "Projeto": "mlflow preço de casas",
