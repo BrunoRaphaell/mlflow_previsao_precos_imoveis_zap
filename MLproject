@@ -1,5 +1,7 @@
 name: mlflow_previsao_precos_imoveis_zap
+
 conda_env: conda.yaml
+
 entry_points:
-    main:
-        command: python train.py
+  main:
+    command: "python train.py"
