@@ -1,0 +1,5 @@
+{
+  "GradientBoostingRegressor_score-2_X_test": "GradientBoostingRegressor.score(X=X_test, y=y_test)",
+  "GradientBoostingRegressor_score-3_X_test": "GradientBoostingRegressor.score(X=X_test, y=y_test)",
+  "GradientBoostingRegressor_score_X_train": "GradientBoostingRegressor.score(X=X_train, y=y_train)"
+}
